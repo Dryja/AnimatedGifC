@@ -7,7 +7,7 @@
 
 #define WIDTH        1000
 #define HEIGHT       1000
-#define NUMCOLORS      5  /* must change DumpImage if this is changed */
+#define NUMCOLORS      5  //number of colors to be definied  
 #define COLORRES       8  /* number of bits for each primary color */
 #define FILENAME "example.gif"
 
